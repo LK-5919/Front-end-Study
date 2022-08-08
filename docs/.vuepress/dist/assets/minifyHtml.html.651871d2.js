@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1df30174","path":"/webpack5/base/minifyHtml.html","title":"html \u538B\u7F29","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659885262000,"contributors":[{"name":"LK-5919","email":"1628069508@qq.com","commits":1}]},"filePathRelative":"webpack5/base/minifyHtml.md"}');export{t as data};
